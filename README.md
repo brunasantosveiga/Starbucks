@@ -1,5 +1,6 @@
-Projeto clone da página do Starbucks feita como estudo de HTML5/CSS3 da B7Web.
-Créditos do layout para Nicepage.
+# Clone da página do Starbucks
+### Projeto feito como estudo do curso de HTML5 e CSS3 da B7Web.
+
 
 ![image](https://user-images.githubusercontent.com/105018656/169043178-7c457557-f3d3-42b4-98e1-6c18aae73ed0.png)
 ![image](https://user-images.githubusercontent.com/105018656/169043129-c32bf76f-4789-40ac-8149-119b4484e947.png)
